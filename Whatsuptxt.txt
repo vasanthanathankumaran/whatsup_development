@@ -1,4 +1,4 @@
-This is whtsup code:
+This is whatsup code:
 author: vasanth
 1.profile page code
 
@@ -7,3 +7,5 @@ author: vasanth
 3.last seen code
 
 4.attachments (Image,Audio,video) code
+
+5.hiding the last seen implimented
