@@ -8,4 +8,8 @@ author: vasanth
 
 4.attachments (Image,Audio,video) code
 
-5.hiding the last seen implimented
+5.hiding the last seen implemented
+
+6.adding the  audio call feature 
+
+7.adding the  vedio call feature 
